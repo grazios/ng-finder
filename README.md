@@ -1,2 +1,2 @@
 # ng-finder
-MacのFinderのようなもの
+initial commit
